@@ -1,2 +1,2 @@
 # Cobra-Ai
-Please contact
+``Dacă există erori sau confuzii, utilizați e-mailul hub: lcfhershell@tutanota.com``
