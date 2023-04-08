@@ -1,0 +1,18 @@
+{
+    "games":[
+        {
+            "session": 0,
+            "player": [],
+            "time4player": ""
+        }
+    ],
+    "download":[
+        {
+            "filename":""
+        }
+    ],
+    "searching":[]
+    , 
+    "usertoxic":[]
+
+}
