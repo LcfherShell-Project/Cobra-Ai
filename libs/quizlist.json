@@ -1,0 +1,51 @@
+{
+    "tech":[
+        {
+            "Who invented the C programming language?":["bell labs (dennis ritchie)", "bell labs", "dennis ritchie"],
+            "In what year was C language launched?": [1970, 1971, 1972],
+            "MySQL is a database application?": ["relationship database management system", "rdms"],
+            "Who invented the MySQL Application?": ["michael widenius", "a.k.a. Monty"],
+            "What is the name of the world's first computer virus?": ["brain"],
+            "Who invented the brain virus?": ["basit", "amjad farooq alvi"],
+            "What is the maximum size of the aes key?": ["128bit", "128", "128 bit"],
+            "Which tech and physics body invented AES encryption?": ["us national institute of standards and technology", "nist"],
+            "What OS was found first?": ["ibm", "ibm 701", "gm-naa i/o"]
+        }
+    ],
+    "astrom":[
+        {
+            "Mention the characteristics of spiral galaxies!": [
+                "the central core is surrounded by flattened plates", 
+                "the flat disk contains stars, gas, and dust which are organized into spiral arms",
+                "flat"
+            ],
+            "What is the fastest particle in the world?": ["neutrino"],
+            "Light cotton planet?": ["kepler-51 d", "kepler-51 b"],
+            "The famous Albert Einstein best theory?": ["relativity"],
+            "What did jerry r. ehman on a piece of paper in 1977?": ["wow", "wow signal"],
+            "Excited hydrogen atomic nuclei produce radio waves, what is the frequency of the resulting waves?": ["1420"],
+            "Why is it difficult for humans to achieve type 1 civilization?": ["because to achieve type 1 civilization requires an understanding of human rights, politics, and economic equality, and democracy. we only reach civilization type 1 only 30% of the data in 2010"],
+            "Which planet is closest to other planets?": ["mercury"],
+            "Does the sun star revolve around the Milky Way?": ["yes", "yeah", "y"],
+            "RAPTOR (RAPid Telescopes for Optical Respons) ?": ["a network of tiny robots that scan the sky for anomalies"],
+            "The biggest star in the universe is?": ["r136a1"],
+            "About 4.5 billion years ago, there was a planet that was responsible for the formation of satellites. What planet is it?": ["theia", "theia planet"],
+            "Space objects that can bend space-time and have high gravity so that light can't get out, is that?": ["black hole", "blank star"]
+        }
+    ],
+    "math":[
+        {
+            "The radioisotope strontium-90 has a half-life of 38.1 years. A sample contains 100 mg of Sr-90. You can calculate the remaining milligrams of Sr-90 after 100 years:": ["16.22044604811303", "16", "16.2"],
+            "Imagine you are studying an unidentified radioactive element sample. When it was discovered 100 years ago, the sample size was 100mg. After 100 years of decay, only 16.22mg is remaining. Using the formula above, you can calculate the half-life of this unknown element:": ["38.09942398335152", "38.1", "38"]
+        }
+    ]
+    ,
+    "other": [
+        {
+            "Rendang is a special food?": ["sumbar", "west sumatra", "id"],
+            "Bali is famous for?": ["food and drinks", "batik", "tradition"],
+            "Traditional Thai food?": ["pad thai", "tod man pla", "som tam", "tom yam"],
+            "Traditional Egypt food?": ["ful", "falafel", "ta'miya"]
+        }
+    ]
+}
