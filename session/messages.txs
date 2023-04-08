@@ -1,0 +1,35 @@
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+database information:
+    name: TXS-DB
+    version: 1.0.0
+    encryption: aes
+create: Lcfhershell 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+record---------------------------------------------------------
+Name  |  Messages  |  Hobies  |  Favorite  |  Country  |  Type
+start----------------------------------------------------------
+[ramsyan] : [ Adulterio con criaturas terrenales ] , [ programar, watching a gore, comiendo, otros ] , [ Oranges, Music, Burger, Noodles, Bakso, Pepsi, Wine ] , [id] , [royal, loyal]
+[jasop] : [ La noche será larga sin el sol ] , [ programar, basketball, writing, viajar, eating ] , [ hmm, guess what my favorite is? ], [ru] , [ handsome, wise , loyal ]
+[mila] : [ Los seres vivos siempre están aprendiendo ] , [ leer, bloging, viajar, Animal fancy, otros ] , [ Pinked, Music, Apple, Greps, Cottage Pie, Trifle, Wine] , [uk] , [beauty, humble, loyal]
+[wester] : [ Internet está lleno de dramas estúpidos ] , [ -- ], [ Porn, Bebida alcohólica, Mujeres ] , [as] , [ drunk, ambitious, royal ]
+[fadlrahman] [ solo quédate en casa, acuéstate y come ] , [ Animes, programar, leer, comiendo, acuéstate ] , [ Music, Tissue, Anime, White, Mime ] , [id], [humble, loyal]
+[lucy] : [ -- ] , [ -- ] , [ -- ] , [ -- ] , [ -- ]   
+end------------------------------------------------------------
+
+host-----------------------------------------------------------
+[host] : [localhost]
+[keys] : [None]
+[data-record] : [oda92uc0329u29n873wd4kd69l7329gsujwd]
+
+command---------------------------------------------------------
+{command: ["select", "delete", "query", "search", "while", "excape", "throw"]}
+
+data-type-------------------------------------------------------
+[id] : Int, Secreet, NRepeat
+[name] : STRING
+[messages] : STRING
+[hobies] : STRINGX
+[favorite] : STRINGX
+[country] : STRING
+[type] : STRING
