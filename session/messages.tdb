@@ -1,0 +1,32 @@
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+database information:
+    name: TXS-DB
+    version: 1.0.0
+    encryption: aes
+create: Lcfhershell 
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+record---------------------------------------------------------
+Folder  |  Access  |  Encrypt  
+start----------------------------------------------------------
+[root] : [ Edit, Read ] , [ False ] 
+[session] : [ Edit, Read ] , [ True ]
+[libs] : [ Read ] , [ False ] 
+[media] : [ Edit, Read ] , [ True ]
+[helper] [ Read ] , [ False ] 
+end------------------------------------------------------------
+
+host-----------------------------------------------------------
+[host] : [localhost]
+[keys] : [None]
+[data-record] : [oda92uc0329u29n873wd4kd69l7329gsujwd]
+[db-create]: Friday March 24, 2023; time: 12:37:49
+
+command---------------------------------------------------------
+{command: ["select", "delete", "query", "search", "while", "excape", "throw", "sque"]}
+
+data-type-------------------------------------------------------
+[id] : Int, Secreet, NRepeat
+[folder] : STRING
+[access] : STRINGX
+[encrypt] : Bollean
