@@ -1,7 +1,7 @@
 {
-  "name": "metatestbeater",
+  "name": "cobra-ai",
   "version": "1.0.0",
-  "description": "Ini adalah bot ringan",
+  "description": "Ini adalah bot gratis",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
